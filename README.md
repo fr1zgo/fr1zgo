@@ -1,6 +1,6 @@
 # Pavel Voropaev
 
-Co-founder of [Admetra](https://admetra.ai): an AI-native library of video-ad parts from trending ads, helping creative teams ship new ads faster. Previously built enterprise AI-agent products at TextCortex. Based in Berlin.
+Making [Admetra](https://admetra.ai): an AI-native library of video-ad parts from trending ads, helping creative teams ship new ads faster. Previously built enterprise AI-agent products at TextCortex. Based in Berlin.
 
 [Website](https://pavelvoropaev.com) · [LinkedIn](https://www.linkedin.com/in/fr1zgo)
 
